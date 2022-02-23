@@ -1,6 +1,6 @@
 # 1、简介
 
-​&emsp;surftrace是在ftrace基础上封装的一系列工具集，用于trace内核信息，当前发行版主要包含 surftrace、surfGuide两大个工具，后期还将包含pylcc(python libbpf compile collections)。
+​&emsp;surftrace是一个trace工具集和开发编译平台，既能让用户基于libbpf快速构建工程进行开发，也能作为ftrace的封装器进行trace命令编写。项目包含surftrace工具集和pylcc、glcc(python or generic C language for libbpf Compiler Collection)，提供远程和本地eBPF的编译能力。
 
 ![image-20220116004341741](ReadMe.assets/image-20220116004341741.png)
 

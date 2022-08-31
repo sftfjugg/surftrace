@@ -1,7 +1,7 @@
 ![mascot.png](ReadMe.assets/mascot.png)
 # 1、简介
 
-​&emsp;surftrace是一个ftrace的自动封装器和开发编译平台，既能让用户基于libbpf快速构建工程进行开发，也能作为ftrace的封装器进行trace命令编写。项目包含surftrace工具集和pylcc、glcc(python or generic C language for libbpf Compiler Collection)，提供远程和本地eBPF的编译能力。
+​&emsp;surftrace 是一个 ftrace 的自动封装器和开发编译平台，既能让用户基于 libbpf 快速构建工程进行开发，也能作为 ftrace 的封装器进行 trace 命令编写。项目包含 surftrace 工具集和pylcc、glcc(python or generic C language for libbpf Compiler Collection)，提供远程和本地 eBPF 的编译能力。
 
 ![surftrace.png](ReadMe.assets/surftrace.png)
 
